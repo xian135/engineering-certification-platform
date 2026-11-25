@@ -1,0 +1,57 @@
+[
+  {
+    "archive_id": "AR2026001",
+    "material_name": "《数据结构》期末考试试卷及成绩单",
+    "achievement_type": "课程考核材料",
+    "course_name": "数据结构",
+    "semester": "2025-2026-1",
+    "file_path": "files/archives/数据结构_期末试卷_2025-2026-1.pdf",
+    "uploader": "王老师",
+    "upload_time": "2026-01-12 10:30",
+    "status": "已归档"
+  },
+  {
+    "archive_id": "AR2026002",
+    "material_name": "《软件工程》课程设计报告（优秀样例）",
+    "achievement_type": "课程考核材料",
+    "course_name": "软件工程",
+    "semester": "2025-2026-1",
+    "file_path": "files/archives/软件工程_课程设计报告_样例.pdf",
+    "uploader": "李老师",
+    "upload_time": "2026-01-18 14:05",
+    "status": "已归档"
+  },
+  {
+    "archive_id": "AR2026003",
+    "material_name": "《大学物理实验》实验报告汇编",
+    "achievement_type": "实践教学材料",
+    "course_name": "大学物理实验",
+    "semester": "2025-2026-1",
+    "file_path": "files/archives/大学物理实验_实验报告汇编.pdf",
+    "uploader": "赵老师",
+    "upload_time": "2026-01-09 09:15",
+    "status": "已归档"
+  },
+  {
+    "archive_id": "AR2026004",
+    "material_name": "2026 年蓝桥杯程序设计大赛获奖证书及作品",
+    "achievement_type": "学科竞赛成果",
+    "course_name": "程序设计实践",
+    "semester": "2025-2026-2",
+    "file_path": "files/archives/蓝桥杯_获奖证书及作品.pdf",
+    "uploader": "陈老师",
+    "upload_time": "2026-05-21 16:40",
+    "status": "已归档"
+  },
+  {
+    "archive_id": "AR2026005",
+    "material_name": "《数据结构》实验指导书修订稿",
+    "achievement_type": "教研教改成果",
+    "course_name": "数据结构",
+    "semester": "2025-2026-2",
+    "file_path": "files/archives/数据结构_实验指导书_修订稿.docx",
+    "uploader": "王老师",
+    "upload_time": "2026-06-03 11:20",
+    "status": "待归档"
+  }
+]
