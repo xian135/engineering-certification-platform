@@ -1,0 +1,167 @@
+[
+  {
+    "materialID": 1001,
+    "materialName": "《软件工程》期末试卷A卷",
+    "materialType": "试卷",
+    "major": "软件工程",
+    "year": 2025,
+    "uploadUserID": 1003,
+    "uploadTime": "2025-06-18 09:30",
+    "filePath": "files/materials/软件工程_期末试卷A卷.pdf",
+    "content": "覆盖需求分析、UML 建模、设计模式与测试用例设计的期末笔试卷。"
+  },
+  {
+    "materialID": 1002,
+    "materialName": "《软件工程》期末试卷B卷",
+    "materialType": "试卷",
+    "major": "软件工程",
+    "year": 2025,
+    "uploadUserID": 1003,
+    "uploadTime": "2025-06-18 09:35",
+    "filePath": "files/materials/软件工程_期末试卷B卷.pdf",
+    "content": "与 A 卷同范围、难度相当的备用卷，含项目进度估算与风险管理题目。"
+  },
+  {
+    "materialID": 1003,
+    "materialName": "《数据结构》期末试卷",
+    "materialType": "试卷",
+    "major": "计算机科学与技术",
+    "year": 2025,
+    "uploadUserID": 1003,
+    "uploadTime": "2025-06-20 10:10",
+    "filePath": "files/materials/数据结构_期末试卷.pdf",
+    "content": "线性表、树、图与排序算法的综合笔试卷。"
+  },
+  {
+    "materialID": 1004,
+    "materialName": "《大数据技术》上机实验报告",
+    "materialType": "实验报告",
+    "major": "数据科学与大数据技术",
+    "year": 2025,
+    "uploadUserID": 1002,
+    "uploadTime": "2025-09-12 14:20",
+    "filePath": "files/materials/大数据技术_上机实验报告.pdf",
+    "content": "Hadoop 集群搭建与 MapReduce 词频统计实验的过程记录与结果分析。"
+  },
+  {
+    "materialID": 1005,
+    "materialName": "《网络交换与路由》实验报告",
+    "materialType": "实验报告",
+    "major": "网络工程",
+    "year": 2025,
+    "uploadUserID": 1002,
+    "uploadTime": "2025-10-08 16:45",
+    "filePath": "files/materials/网络交换与路由_实验报告.pdf",
+    "content": "交换机 VLAN 划分、静态路由与 RIP 配置的六组实验记录。"
+  },
+  {
+    "materialID": 1006,
+    "materialName": "软件工程专业生产实习实践报告",
+    "materialType": "实践报告",
+    "major": "软件工程",
+    "year": 2025,
+    "uploadUserID": 1004,
+    "uploadTime": "2025-11-03 11:15",
+    "filePath": "files/materials/软件工程_生产实习实践报告.pdf",
+    "content": "企业实习期间的岗位职责、项目参与情况与实践总结。"
+  },
+  {
+    "materialID": 1007,
+    "materialName": "计算机科学与技术专业课程实践总结",
+    "materialType": "实践报告",
+    "major": "计算机科学与技术",
+    "year": 2025,
+    "uploadUserID": 1004,
+    "uploadTime": "2025-11-20 09:05",
+    "filePath": "files/materials/计科_课程实践总结.pdf",
+    "content": "课程实践环节的组织方式、学时分配与实践成果统计。"
+  },
+  {
+    "materialID": 1008,
+    "materialName": "《Java 程序设计》课程材料汇编",
+    "materialType": "课程材料",
+    "major": "软件工程",
+    "year": 2024,
+    "uploadUserID": 1001,
+    "uploadTime": "2024-03-14 10:00",
+    "filePath": "files/materials/Java程序设计_课程材料汇编.pdf",
+    "content": "教学大纲、实验指导书、课件与考核方案的汇编材料。"
+  },
+  {
+    "materialID": 1009,
+    "materialName": "《操作系统》课程材料汇编",
+    "materialType": "课程材料",
+    "major": "计算机科学与技术",
+    "year": 2024,
+    "uploadUserID": 1001,
+    "uploadTime": "2024-09-09 15:30",
+    "filePath": "files/materials/操作系统_课程材料汇编.pdf",
+    "content": "进程管理、内存管理与文件系统章节的课件与习题。"
+  },
+  {
+    "materialID": 1010,
+    "materialName": "《毕业设计（论文）管理规范》教案课件",
+    "materialType": "教案课件",
+    "major": "软件工程",
+    "year": 2026,
+    "uploadUserID": 1001,
+    "uploadTime": "2026-02-26 08:50",
+    "filePath": "files/materials/毕业设计管理规范_教案课件.pptx",
+    "content": "毕业设计选题、开题、中期检查与答辩环节的规范说明课件。"
+  },
+  {
+    "materialID": 1011,
+    "materialName": "《Web 前端开发》实践报告",
+    "materialType": "实践报告",
+    "major": "软件工程",
+    "year": 2026,
+    "uploadUserID": 1004,
+    "uploadTime": "2026-04-15 13:40",
+    "filePath": "files/materials/Web前端开发_实践报告.pdf",
+    "content": "基于 Vue 的课程管理系统前端页面开发过程与效果说明。"
+  },
+  {
+    "materialID": 1012,
+    "materialName": "基于深度学习的图像分类毕业设计论文",
+    "materialType": "毕业论文",
+    "major": "计算机科学与技术",
+    "year": 2026,
+    "uploadUserID": 1002,
+    "uploadTime": "2026-05-22 17:20",
+    "filePath": "files/materials/图像分类_毕业设计论文.pdf",
+    "content": "卷积神经网络模型选型、训练调参与实验结果对比分析。"
+  },
+  {
+    "materialID": 1013,
+    "materialName": "校园网络改造毕业设计论文",
+    "materialType": "毕业论文",
+    "major": "网络工程",
+    "year": 2026,
+    "uploadUserID": 1002,
+    "uploadTime": "2026-05-28 10:25",
+    "filePath": "files/materials/校园网络改造_毕业设计论文.pdf",
+    "content": "校园网拓扑重构、IPv6 升级与安全策略部署方案。"
+  },
+  {
+    "materialID": 1014,
+    "materialName": "《数据可视化》教案课件",
+    "materialType": "教案课件",
+    "major": "数据科学与大数据技术",
+    "year": 2026,
+    "uploadUserID": 1001,
+    "uploadTime": "2026-06-10 09:15",
+    "filePath": "files/materials/数据可视化_教案课件.pptx",
+    "content": "ECharts 与 Tableau 图表选型、配色与交互设计课件。"
+  },
+  {
+    "materialID": 1015,
+    "materialName": "《编译原理》期末试卷",
+    "materialType": "试卷",
+    "major": "计算机科学与技术",
+    "year": 2026,
+    "uploadUserID": 1003,
+    "uploadTime": "2026-06-24 15:00",
+    "filePath": "files/materials/编译原理_期末试卷.pdf",
+    "content": "词法分析、语法分析与中间代码生成的期末笔试卷。"
+  }
+]

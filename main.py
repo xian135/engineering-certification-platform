@@ -2,12 +2,14 @@
 
 from modules.indicator_management.console import run as run_indicator_demo
 from modules.material_archive.console import run as run_material_archive_demo
+from modules.material_search.console import run as run_material_search_demo
 
 
 def main() -> None:
     """依次运行各功能模块的控制台演示。"""
     run_indicator_demo()
     run_material_archive_demo()
+    run_material_search_demo()
 
 
 if __name__ == "__main__":
