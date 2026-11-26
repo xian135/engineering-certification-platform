@@ -1,0 +1,26 @@
+[
+  {
+    "user_id": 1,
+    "user_name": "admin",
+    "password_hash": "c967b30998594fdf5bcd2b14a94b607486980dee9b3cef6ca10240770fa9790d",
+    "role": "admin",
+    "real_name": "张三",
+    "role_name": "专业认证管理员"
+  },
+  {
+    "user_id": 2,
+    "user_name": "songzy",
+    "password_hash": "b20606e0d6093d1f60a07063047ee2693e2d08745153c889f91fae43a3ca67f0",
+    "role": "teacher",
+    "real_name": "宋老师",
+    "role_name": "授课教师"
+  },
+  {
+    "user_id": 3,
+    "user_name": "student01",
+    "password_hash": "b20606e0d6093d1f60a07063047ee2693e2d08745153c889f91fae43a3ca67f0",
+    "role": "student",
+    "real_name": "李同学",
+    "role_name": "在校学生"
+  }
+]

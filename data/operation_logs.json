@@ -1,0 +1,303 @@
+[
+  {
+    "time": "2026-11-26 20:33:19",
+    "operator": "system",
+    "action": "新增账号",
+    "result": "成功",
+    "detail": "admin（专业认证管理员）"
+  },
+  {
+    "time": "2026-11-26 20:33:19",
+    "operator": "system",
+    "action": "新增账号",
+    "result": "成功",
+    "detail": "songzy（授课教师）"
+  },
+  {
+    "time": "2026-11-26 20:33:19",
+    "operator": "system",
+    "action": "新增账号",
+    "result": "成功",
+    "detail": "student01（在校学生）"
+  },
+  {
+    "time": "2026-11-26 20:33:19",
+    "operator": "admin",
+    "action": "新增账号",
+    "result": "成功",
+    "detail": "teacher02（授课教师）"
+  },
+  {
+    "time": "2026-11-26 20:33:19",
+    "operator": "admin",
+    "action": "修改账号",
+    "result": "成功",
+    "detail": "teacher02"
+  },
+  {
+    "time": "2026-11-26 20:33:19",
+    "operator": "admin",
+    "action": "删除账号",
+    "result": "成功",
+    "detail": "teacher02"
+  },
+  {
+    "time": "2026-11-26 20:33:19",
+    "operator": "songzy",
+    "action": "登录",
+    "result": "成功",
+    "detail": "角色 授课教师"
+  },
+  {
+    "time": "2026-11-26 20:33:19",
+    "operator": "songzy",
+    "action": "登录",
+    "result": "失败",
+    "detail": "密码错误"
+  },
+  {
+    "time": "2026-11-26 20:33:19",
+    "operator": "nobody",
+    "action": "登录",
+    "result": "失败",
+    "detail": "账号不存在"
+  },
+  {
+    "time": "2026-11-26 20:33:19",
+    "operator": "admin",
+    "action": "权限校验",
+    "result": "通过",
+    "detail": "user:create"
+  },
+  {
+    "time": "2026-11-26 20:33:19",
+    "operator": "songzy",
+    "action": "权限校验",
+    "result": "拒绝",
+    "detail": "user:create"
+  },
+  {
+    "time": "2026-11-26 20:33:19",
+    "operator": "songzy",
+    "action": "权限校验",
+    "result": "通过",
+    "detail": "archive:upload"
+  },
+  {
+    "time": "2026-11-26 20:33:19",
+    "operator": "student01",
+    "action": "权限校验",
+    "result": "拒绝",
+    "detail": "user:view"
+  },
+  {
+    "time": "2026-11-26 20:34:48",
+    "operator": "admin",
+    "action": "新增账号",
+    "result": "成功",
+    "detail": "teacher02（授课教师）"
+  },
+  {
+    "time": "2026-11-26 20:34:48",
+    "operator": "admin",
+    "action": "修改账号",
+    "result": "成功",
+    "detail": "teacher02"
+  },
+  {
+    "time": "2026-11-26 20:34:48",
+    "operator": "admin",
+    "action": "删除账号",
+    "result": "成功",
+    "detail": "teacher02"
+  },
+  {
+    "time": "2026-11-26 20:34:48",
+    "operator": "songzy",
+    "action": "登录",
+    "result": "成功",
+    "detail": "角色 授课教师"
+  },
+  {
+    "time": "2026-11-26 20:34:48",
+    "operator": "songzy",
+    "action": "登录",
+    "result": "失败",
+    "detail": "密码错误"
+  },
+  {
+    "time": "2026-11-26 20:34:48",
+    "operator": "nobody",
+    "action": "登录",
+    "result": "失败",
+    "detail": "账号不存在"
+  },
+  {
+    "time": "2026-11-26 20:34:48",
+    "operator": "admin",
+    "action": "权限校验",
+    "result": "通过",
+    "detail": "user:create"
+  },
+  {
+    "time": "2026-11-26 20:34:48",
+    "operator": "songzy",
+    "action": "权限校验",
+    "result": "拒绝",
+    "detail": "user:create"
+  },
+  {
+    "time": "2026-11-26 20:34:48",
+    "operator": "songzy",
+    "action": "权限校验",
+    "result": "通过",
+    "detail": "archive:upload"
+  },
+  {
+    "time": "2026-11-26 20:34:48",
+    "operator": "student01",
+    "action": "权限校验",
+    "result": "拒绝",
+    "detail": "user:view"
+  },
+  {
+    "time": "2026-11-26 20:37:07",
+    "operator": "admin",
+    "action": "新增账号",
+    "result": "成功",
+    "detail": "teacher02（授课教师）"
+  },
+  {
+    "time": "2026-11-26 20:37:07",
+    "operator": "admin",
+    "action": "修改账号",
+    "result": "成功",
+    "detail": "teacher02"
+  },
+  {
+    "time": "2026-11-26 20:37:07",
+    "operator": "admin",
+    "action": "删除账号",
+    "result": "成功",
+    "detail": "teacher02"
+  },
+  {
+    "time": "2026-11-26 20:37:07",
+    "operator": "songzy",
+    "action": "登录",
+    "result": "成功",
+    "detail": "角色 授课教师"
+  },
+  {
+    "time": "2026-11-26 20:37:07",
+    "operator": "songzy",
+    "action": "登录",
+    "result": "失败",
+    "detail": "密码错误"
+  },
+  {
+    "time": "2026-11-26 20:37:07",
+    "operator": "nobody",
+    "action": "登录",
+    "result": "失败",
+    "detail": "账号不存在"
+  },
+  {
+    "time": "2026-11-26 20:37:07",
+    "operator": "admin",
+    "action": "权限校验",
+    "result": "通过",
+    "detail": "user:create"
+  },
+  {
+    "time": "2026-11-26 20:37:07",
+    "operator": "songzy",
+    "action": "权限校验",
+    "result": "拒绝",
+    "detail": "user:create"
+  },
+  {
+    "time": "2026-11-26 20:37:07",
+    "operator": "songzy",
+    "action": "权限校验",
+    "result": "通过",
+    "detail": "archive:upload"
+  },
+  {
+    "time": "2026-11-26 20:37:07",
+    "operator": "student01",
+    "action": "权限校验",
+    "result": "拒绝",
+    "detail": "user:view"
+  },
+  {
+    "time": "2026-11-26 20:44:08",
+    "operator": "admin",
+    "action": "新增账号",
+    "result": "成功",
+    "detail": "teacher02（授课教师）"
+  },
+  {
+    "time": "2026-11-26 20:44:08",
+    "operator": "admin",
+    "action": "修改账号",
+    "result": "成功",
+    "detail": "teacher02"
+  },
+  {
+    "time": "2026-11-26 20:44:08",
+    "operator": "admin",
+    "action": "删除账号",
+    "result": "成功",
+    "detail": "teacher02"
+  },
+  {
+    "time": "2026-11-26 20:44:08",
+    "operator": "songzy",
+    "action": "登录",
+    "result": "成功",
+    "detail": "角色 授课教师"
+  },
+  {
+    "time": "2026-11-26 20:44:08",
+    "operator": "songzy",
+    "action": "登录",
+    "result": "失败",
+    "detail": "密码错误"
+  },
+  {
+    "time": "2026-11-26 20:44:08",
+    "operator": "nobody",
+    "action": "登录",
+    "result": "失败",
+    "detail": "账号不存在"
+  },
+  {
+    "time": "2026-11-26 20:44:08",
+    "operator": "admin",
+    "action": "权限校验",
+    "result": "通过",
+    "detail": "user:create"
+  },
+  {
+    "time": "2026-11-26 20:44:08",
+    "operator": "songzy",
+    "action": "权限校验",
+    "result": "拒绝",
+    "detail": "user:create"
+  },
+  {
+    "time": "2026-11-26 20:44:08",
+    "operator": "songzy",
+    "action": "权限校验",
+    "result": "通过",
+    "detail": "archive:upload"
+  },
+  {
+    "time": "2026-11-26 20:44:08",
+    "operator": "student01",
+    "action": "权限校验",
+    "result": "拒绝",
+    "detail": "user:view"
+  }
+]

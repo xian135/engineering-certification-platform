@@ -3,6 +3,7 @@
 from modules.indicator_management.console import run as run_indicator_demo
 from modules.material_archive.console import run as run_material_archive_demo
 from modules.material_search.console import run as run_material_search_demo
+from modules.user_management.console import run as run_user_management_demo
 
 
 def main() -> None:
@@ -10,6 +11,7 @@ def main() -> None:
     run_indicator_demo()
     run_material_archive_demo()
     run_material_search_demo()
+    run_user_management_demo()
 
 
 if __name__ == "__main__":

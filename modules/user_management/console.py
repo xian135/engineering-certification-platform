@@ -7,8 +7,8 @@ SEPARATOR = "=" * 64
 
 # 首次运行时写入的示例账号
 DEMO_USERS = (
-    ("admin", "admin123", "admin", "胡佳鑫"),
-    ("songzy", "123456", "teacher", "宋舟翼"),
+    ("admin", "admin123", "admin", "张三"),
+    ("songzy", "123456", "teacher", "宋老师"),
     ("student01", "123456", "student", "李同学"),
 )
 
